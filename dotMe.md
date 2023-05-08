@@ -6,4 +6,5 @@ my configs files
   alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
   config config --local status.showUntrackedFiles no
   echo "alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/.bashrc</code>
+  
 Installation/migration under https://www.atlassian.com/git/tutorials/dotfiles
